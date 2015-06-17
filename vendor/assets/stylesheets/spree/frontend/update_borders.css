@@ -1,0 +1,8 @@
+
+.panel-default {
+	border-color: blue;
+}
+
+.panel-default:hover {
+	border-color: grey;
+}
